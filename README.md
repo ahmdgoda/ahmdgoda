@@ -13,6 +13,6 @@ I build embedded solutions spanning firmware, applications, IoT, BLE, and real-t
 - **Tools**: Keil, CCS, nRF Connect VS Code, GCC, Make, J-Link, Git, Logic Analyzers  
 
 ## 🌐 Connect
-- [LinkedIn](https://www.linkedin.com/in/ahmdgoda)
+- [LinkedIn](https://www.linkedin.com/in/ahmadjouda)
 
 
